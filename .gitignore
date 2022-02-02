@@ -1,6 +1,7 @@
 /*/target/
 /*/*/target/
 /*/.idea
+.idea
 *.iml
 .DS_Store
 *.jar
